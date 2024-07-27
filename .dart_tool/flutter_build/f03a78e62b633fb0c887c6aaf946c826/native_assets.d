@@ -1,0 +1,1 @@
+ C:\\Users\\manum\\Documents\\GitHub\\Codelab\\codelabs\\tfserving-flutter\\codelab2\\finished\\.dart_tool\\flutter_build\\f03a78e62b633fb0c887c6aaf946c826\\native_assets.yaml: 
